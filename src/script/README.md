@@ -8,6 +8,7 @@ Este proyecto demuestra cómo **firmar digitalmente un archivo PDF usando RSA** 
 ---
 
 ## 📁 Estructura del Proyecto
+el proyecto ya cuenta con los archivos generados por favor eliminarlos y ejecura el script ( eliminar los .pem  y el .bin )
 
 ```
 
